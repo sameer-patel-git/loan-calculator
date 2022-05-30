@@ -6,6 +6,9 @@ Steps to run the test:
 2. Run command "npm run wdio"
 
 
+#Ans:
+
+
 1.	We can add test cases to check the followings. 
   a.	All the question strings and labels.
   b.	What type of data could be entered in the form?  Ex number, string, special characters etc. 
